@@ -3,7 +3,7 @@ id INTEGER PRIMARY KEY,
 name TEXT,
 age INTEGER,
 sex	TEXT,
-coloR TEXT,
+color TEXT,
 temperament TEXT,
 alive BOOLEAN
 )
